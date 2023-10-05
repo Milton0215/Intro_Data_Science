@@ -1,7 +1,7 @@
 # MAIN REPO
 ## Intro to Data Science
 [Book 1: R for Data Science](https://adv-r.hadley.nz/)\
-[Book 2: Modern Dive]([ModernDive](https://moderndive.com/))\
+[Book 2: Modern Dive](https://moderndive.com/)\
 [Book3: Advanced R](https://adv-r.hadley.nz/)\
 [Lecture](https://github.com/Milton0215/lectures)\
 [Labs](https://github.com/Milton0215/labs)\
