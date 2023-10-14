@@ -10,7 +10,7 @@
 [Weekly assignments](https://github.com/Milton0215/assignments)\
 [Assignment 0](https://github.com/intro-to-data-science-23/assignment-0-Milton0215)\
 [Assignment 1](https://github.com/intro-to-data-science-23/assignment-1-Milton0215)  - [Feedback](https://github.com/intro-to-data-science-23/assignment-1-Milton0215/pull/1)\
-[Assignment 2](https://github.com/intro-to-data-science-23/assignment-2-Milton0215)  - [Feedback]()\
+[Assignment 2](https://github.com/intro-to-data-science-23/assignment-2-Milton0215)  - [Feedback](https://github.com/intro-to-data-science-23/assignment-2-Milton0215/pull/1#issuecomment-1762060399)\
 [Assignment 3]()
 
 ## WZB
