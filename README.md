@@ -1,5 +1,6 @@
 # MAIN REPO
 ## Intro to Data Science
+[Course contents](https://github.com/intro-to-data-science-23)\
 [Book 1: R for Data Science](https://adv-r.hadley.nz/)\
 [Book 2: Modern Dive](https://moderndive.com/)\
 [Book 3: Advanced R](https://adv-r.hadley.nz/)\
