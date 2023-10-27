@@ -15,8 +15,10 @@
 [Assignment 3]()
 
 ### Workshop\
-[Workshop](https://github.com/intro-to-data-science-23/workshop-presentations.git)\
-
+[IDS Tools for Data Science Workshop 2021](https://github.com/intro-to-data-science-21-workshop)\
+[IDS Tools for Data Science Workshop 2022]([https://github.com/intro-to-data-science-23/workshop-presentations.git](https://intro-to-data-science-22-workshop.github.io/))\
+[Instructions](https://github.com/intro-to-data-science-23/workshop-presentations.git)\
+[Workshop](https://github.com/intro-to-data-science-23-workshop/02-data.table-prusni-milton-minho)\
 
 ## WZB
 [TASKS](https://github.com/wzb-ipi/tasks)\
