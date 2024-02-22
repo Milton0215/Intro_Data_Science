@@ -1,10 +1,10 @@
 # MAIN REPO
 
 ## Data Structures and Algorithms
-[Course contents](https://github.com/intro-to-data-science-23](https://github.com/lenafm/data_structures_and_algorithms_2024)\
+[Course contents](https://github.com/lenafm/data_structures_and_algorithms_2024)\
 
 ## Machine Learning
-[Course contents](https://github.com/intro-to-data-science-23](https://github.com/lenafm/data_structures_and_algorithms_2024](https://github.com/Divya1205/MachineLearning2024_Hertie_School)\
+[Course contents](https://github.com/Divya1205/MachineLearning2024_Hertie_School)\
 
 
 ## Intro to Data Science
