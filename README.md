@@ -1,7 +1,8 @@
 # MAIN REPO
 
 ## Data Structures and Algorithms
-[Course contents](https://github.com/lenafm/data_structures_and_algorithms_2024)\
+[Labs](https://github.com/lenafm/data_structures_and_algorithms_2024)\
+[Project: DSA-Debt-Settlement-Group-6](https://github.com/GiuliaGGG/DSA-Debt-Settlement-Group-6)\
 
 ## Machine Learning
 [Course contents](https://github.com/Divya1205/MachineLearning2024_Hertie_School)\
