@@ -6,7 +6,7 @@
 
 ## Machine Learning
 [Course contents](https://github.com/Divya1205/MachineLearning2024_Hertie_School)\
-
+[Project: machine_learning_project](https://github.com/Angelikabeloz/machine_learning_project)\
 
 ## Intro to Data Science
 [Course contents](https://github.com/intro-to-data-science-23)\
